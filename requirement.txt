@@ -1,0 +1,9 @@
+sounddevice
+pyttsx3
+SpeechRecognition
+vosk
+pyowm
+wikipedia-api
+dotenv
+wavio
+pydantic
